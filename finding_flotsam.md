@@ -12,7 +12,7 @@ Eastwind Shen, tall, darkskinned, whipcord-strong, sailed the board. She had bee
 
 Rahifa Ruan, a muscular sunbronzed woman with light sun-parched hair, crouched an an agonizingly cramped position just aft of the mast socket. Next to her was a float cage containing a small, scared rigging cat named Belladonna.
 
-A horrifying squall at midnight had blown the sticks out of Limstrake, battering and capsizing the ship. Since then it had been a hell passage, with no hope beyond keeping the board sailing. Only one desperately skilled shift of balance and weight after another had saved them, hour after agonizing hour. Her muscles had cramped and trembled, but she had an almost inhuman command over her body.
+A horrifying squall at midnight had blown the sticks out of _Limstrake_, battering and capsizing the ship. Since then it had been a hell passage, with no hope beyond keeping the board sailing. Only one desperately skilled shift of balance and weight after another had saved them, hour after agonizing hour. Her muscles had cramped and trembled, but she had an almost inhuman command over her body.
 
 Still, even Eastwind’s endurance was faltering; and the sun was sinking westward into another black bank of stormcloud. They would not survive that storm. Already she had almost fallen unconscious more than once, and only Rahifa’s urgent cries, and fierce grip upon her leg, had wakened her at the last moment.
 
