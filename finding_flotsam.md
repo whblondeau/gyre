@@ -40,7 +40,7 @@ The next swell was clean and high. _“Ship!”_ barked Eastwind.
 
 Eastwind ghosted a cracked laugh, leaned into the sail, and fell off a point.
 
-                    \#
+                    #
 
 “I am Skoan Usad. You have come aboard the _Ragfin_, out of Heke’ah, bound for Flotsam. What are we to do with you?”
 
