@@ -50,7 +50,7 @@ The next swell was clean and high. _“Ship!”_ barked Eastwind.
 
 Eastwind ghosted a cracked laugh, leaned into the sail, and came up a point.
 
-#
+						#
 
 The ship was fast. A two-masted topsail schooner, raked masts, with a low sleek hull, running wing and wing before the wind. To fail to catch the ship was death for all of them.
 
@@ -93,7 +93,7 @@ The worst of it was the withered carcass of a Passage Bird atop the foremast, be
 
 As they eyed one another, the last rays of sunset faded, and the heavy black clouds closed in towards them.
 
-#
+						#
 
 “Any woman aboard have any word against these castaways?” The Captain looked aloft at the groaning rigging, silhouetted against the storm roof that hurtled by overhead in long heavy-bellied streaks. Foam hissed along the _Ragfin_’s sides, and great dark swells rolled the ship from side to side.
 
@@ -133,7 +133,7 @@ Eastwind studied the sailor with troubled eyes, then shook her head.
 
 The small woman spat on the deck.
 
-#
+						#
 
 The Captain took their Oath while lightning flickered in the dry darkening sky. Corposants flared, mists of electric fire, at masthead and boom, and clothed the piteous skeletal wreck of the crucified Passage Bird, swirling around its tattered remains. The sailors gaped in dread, and even the coarse hardfaced Bhalong cowered.
 
@@ -165,7 +165,7 @@ Being new to the crew, and both attractive women, they were challenged. Eastwind
 
 Large women tended to underestimate Rahifa’s close-knit musculature and quick reflexes. Hagga Sha went to the fo’c’sle sick bay with a broken collarbone. Rahifa was given extra duty for disabling one of the crew.
 
-#
+						#
 
 “What kind of cargo?” asked Lasirenn.
 
@@ -191,7 +191,7 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 Of course, no answer came.
 
-#
+						#
 
 The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. The decks were dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly. The sea rushed, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
 
@@ -221,7 +221,7 @@ Great streaks and drifts and reaches of seaweed, amber and brown and dark red in
 
 Bad Water was a place of rich life. The water itself, unlike the deep blue of the outer oceans, had distinct tinges of green. Schools of fish shoaled around the weed, and many species of seabirds hunted and fished the area, often scooping up squids and less familiar tentacled creatures.
 
-#
+						#
 
 The meaning of that was made sickeningly clear two days later. The _Ragfin_ had passed near enough through the center of the Gyre. It was the Captain’s watch, morning. The Bosun whistled the All Hands.
 
@@ -395,6 +395,7 @@ Eastwind came aware again. She no longer had Tryggva’s command of the acts of 
 
 And Eastwind was more than capable of dealing with the Bosun.
 
+
 ###To Flotsam
 
 
@@ -406,7 +407,7 @@ Squallbone and Seiche went up the foremast top and reverently brought the mummif
 
 Rahifa also lay in sick bay, and did not prosper. Basilika had put forth all of her skill, and sung all of the healing songs she knew, but Rahifa was grievously hurt and sailed her own journey in the Death Sea. None could tell whether she would return, or she would find Makarita and tie up there. Belladonna neglected her pest-catching duties shamefully, lying next to Rahifa and purring without pause. “Cat’s calling her back,” the sailors said.
 
-#
+						#
 
 As they sailed back out to the fringes of Bad Water, the skies changed again. Eastwind, at a particularly wild sunset, climbed the maintop and cried with all her heart to Lasirenn. <i>Come and speak with me, Beautiful Girl. Come and find me again, you. My love lies dying, she, and my ship has no guidance to the only place where she might find healing.</i> The words seemed to echo away into the high clouds and under the water. At long last, the flat muffled dullness of her spiritual ears opened out.
 
@@ -421,7 +422,7 @@ Tears streamed down Eastwind’s dark face. <i>Thank you, Lasirenn. Never leave 
 “Your hair is so beautiful,” she whispered aloud.
 
 The next morning, the sailors saw a wonderful and heartening thing. A Passage Bird, looking translucent in the predawn air, winged in from astern and perched on the foretop. They knew it was their guide to Flotsam.
-#
+						#
 
 “How many of you are there?” asked Basilika one evening, idly, as _Ragfin_ plunged into the roaring sequence of storms and clear thundering wind that marked the Ring, the outer edge of the Gyre. She and Eastwind were on the stern deck, smoking, for smoking in sick bay was thought to be bad. Heavy banks of cloud raced overhead in the darkness, occluding and revealing the stars. “I’ve seen Afya and Tryggva. Even though Afya hid from me when I Heard your truth.”
 
@@ -435,7 +436,7 @@ Eastwind shrugged. “Few more. How many, not even entirely sure, me. I’m newe
 
 “Life I have, me.”
 
-#
+						#
 They had Flotsam in sight, the morning that Rahifa woke, coming back from her long journey on the seas near death. Wrapped in bandages. She smiled brilliantly at Eastwind, a lover’s smile. Basilika, standing on the bed’s other side, eyes glistening, nudged her head No.
 
 “My girl,” said Eastwind. “Like to get some fresh air, you? Flotsam off the starboard bow, and it’s a beautiful morning out there.” Belladonna stretched an headbutted Rahifa gently.
