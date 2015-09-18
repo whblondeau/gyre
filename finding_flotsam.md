@@ -4,11 +4,11 @@
 
 The sailboard was an insect skittering among the huge moving hills of water. It carved a swooping, desperate wake down their gigantic faces.
 
-The sky above was a fretwork of strange, hard-edged formations often seen in the Storm Belt, the marine desert of the equator. These were what Paritid sailors call “Iffr’s Fingerbones”. Thin glassy tubes of supersonic wind, the Fingerbones blast from west to east, energy sinks for the overheated equatorial atmosphere.
+The Storm Belt, the marine desert of the equator. A terrible place to be adrift. The sky above was a fretwork of strange, hard-edged formations, the ones that Paritid sailors call “Iffr’s Fingerbones”. Thin glassy, knobby tubes of supersonic wind, the Fingerbones blast from west to east, energy sinks for the overheated equatorial atmosphere.
 
-One of those Fingerbones, following a local concentration of surface heat, had lowered a knuckle to rap the sea the night before. The schooner _Limstrake_, bound for the seaboard cities of the Gautsas with a cargo of spices and glassware, had had no chance, and little warning, when the droning, boneshaking shriek fell upon them from the hot inky darkness above. The Fingerbone ripped the sticks out of _Limstrake_, hurling them over the side in a ruined welter of cordage and spars, breaking the keel at the mainmast step. The Fingerbone had passed on to brush the water’s surface in a huge explosive burst, blasting the stricken ship’s decks with roaring foam and lifting a short sharp wall of water.
+One of those Fingerbones, following a local concentration of surface heat, had plunged down from its high-altitude home the night before; had lowered a knuckle to rap the sea. The schooner _Limstrake_, bound for the seaboard cities of the Gautsas with a cargo of spices and glassware, had had little warning when the droning, boneshaking shriek fell through the hot inky darkness above. Little warning, and no chance. The Fingerbone ripped the sticks out of _Limstrake_, hurling them over the side in a ruined welter of cordage and spars, breaking the keel at the mainmast step. Then it had passed on to brush the water’s surface in a huge explosive burst, blasting the stricken ship’s decks with roaring foam and lifting a short sharp wall of water.
 
-Then, as suddenly as it had come, the Fingerbone lifted back into the darkness, leaving cold crisp air in its wake, leaving fogs that boiled from the warm waters and were whipped away by the lesser surface winds.
+As suddenly as it had come, the Fingerbone lifted back into the darkness, leaving cold crisp air in its wake, leaving fogs that boiled from the warm waters and were whipped away by the lesser surface winds.
 
 The two women and one small rigging cat on the driven sailboard were, so far as they knew, the _Limstrake_'s only survivors.
 
