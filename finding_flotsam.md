@@ -12,15 +12,15 @@ As suddenly as it had come, the Fingerbone lifted back into the darkness, leavin
 
 The two women and one small rigging cat on the driven sailboard were, so far as they knew, the _Limstrake_'s only survivors.
 
-The women were Paritid sailors; shipmates and lifemates. They were naked but for knife belts in the warm cruel wind. Eastwind Shen, tall, darkskinned, whipcord-strong, sailed the board, and had been sailing for some twenty hours without respite. Rahifa Ruan, muscular, sunbronzed, with light sun-parched hair, crouched in an agonizingly cramped position just aft of the mast socket, where the float cage containing Belladonna the rigging cat was secured. 
+The women were Paritid sailors; shipmates and lifemates. They were naked but for knife belts in the warm cruel wind. They were very different from one another. Eastwind Shen, tall, darkskinned, whipcord-strong, sailed the board, and had been sailing for some twenty hours without respite. Rahifa Ruan, muscular, sunbronzed, with a shock of light sun-parched hair, crouched in an agonizingly cramped position just aft of the mast socket. Next to her, the float cage containing Belladonna the rigging cat was secured. 
 
 Since they’d escaped the foundering ship in a mad black chaos of choking foam and roaring wind, it had been a hell passage, with no hope beyond keeping the board sailing for another minute, another thirty seconds. Time and again, Eastwind had nearly wiped out on the plunging walls of dark water. Only one desperately skilled shift of balance and weight after another had saved them. Hour after agonizing hour she’d ridden the ragged swells and waves, balancing the sail against the switch and blast of the wind, in darkness, by feel alone. 
 
 Daylight had been a welcome relief. But they were going to die there in the Storm Belt, die fairly soon, because the day was falling towards evening and the wind would not stop blowing.
 
-The harsh hot north wind, cutting against the huge lumbering swell. While it blew, they couldn’t rest. The seas were too violent. They’d capsize, roll and tumble, be swept apart and drowned, if they attempted to heave to.
+The harsh hot north wind, cutting across the huge lumbering swell. While it blew, they couldn’t rest. The seas were too violent. They’d capsize, roll and tumble, be swept apart and drowned, if they attempted to heave to.
 
-Eastwind could not stop. Rahifa, to her anguish and shame, could not take a turn sailing the board: she had not Eastwind’s uncanny skill at surfing and board sailing.
+Eastwind could not stop. Rahifa, to her anguish and shame, could not take a turn sailing the board: she had not Eastwind’s uncanny skill at surfing and board sailing. All she could do was watch, and help. Especially she watched Eastind, watched lest her weary head droop towards sleep.
 
 Eastwind was clearly a descendant of the Old Biologists’ whimsy: her dark brown skin streaked with broad black decorative marks, rich green hair flaring in the wind, burned silver at the tips and crown. She looked out at the ocean that would kill them all with hard, unforgiving eyes of celadon graygreen. Her muscles cramped and trembled, but she had an almost inhuman command over her body, and a will as hard as drillwood.
 
@@ -52,7 +52,7 @@ Eastwind ghosted a cracked laugh, leaned into the sail, and came up a point.
 
 						#
 
-The ship was fast. A two-masted topsail schooner, raked masts, with a low sleek hull, running wing and wing before the wind. To fail to catch the ship was death for all of them.
+The ship was fast. A three-masted topsail schooner, raked masts, with a low sleek hull, running wing and wing before the wind. To fail to catch the ship was death for all of them.
 
 The thundering reach to intercept the distant ship was an agony. Any lesser surfer than Eastwind would have lost it. She hurtled from crest to crest, crashing, crunching the spray outward in sheets, recklessly catching the wind under the sail to lift them over the worst of the chop. She heard poor Belladonna crying out: Paritid rigging cats are the bravest of the crew, but this was nothing she had been bred for. Rahifa crooned to the cat, trying to comfort her. Then, when they were airborne from one swell crest to another, Rahifa laughed aloud and whooped. _Lasirenn, Beautiful Girl,_ Eastwind prayed. _Let my girl and her cat survive this._
 
