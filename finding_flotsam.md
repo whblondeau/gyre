@@ -139,13 +139,18 @@ The small woman spat on the deck.
 
 						#
 
-The Captain took their Oath while lightning flickered in the dry darkening sky. Corposants flared, mists of electric fire, at masthead and boom, and clothed the piteous skeletal wreck of the crucified Passage Bird, swirling around its tattered remains. The sailors gaped in dread, and even the coarse hardfaced Bhalong cowered.
+The Captain took their Oath while lightning flickered in the dry darkening sky. Corposants flared, mists of electric fire, at masthead and boom, and clothed the piteous skeletal wreck of the crucified Passage Bird, swirling around its tattered remains. The sailors gaped in dread. Even the coarse hardfaced Bhalong cowered.
 
-“A night of power!” cried the Captain, standing iron-dark against the freakish green-white play of lightning and corposant. “A good night for an oath most binding!” She beckoned Eastwind and Rahifa to her. They knelt, gripped by the Captain’s powerful voice as she rehearsed to them the terrible words.
+Skoan Usad went to the Slink’s cage. The hunched, scale-armored beast stretched out of its confinement, and gathered itself to bolt away on some mad impulse of mayhem; but the Captain caught its choke-rope and mastered it. The beast snarled and slavered, looking up at Skoan with a reverence of hatred, but owning her its master. The Captain’s other hand held her scimitar.
+
+“A night of power!” she cried, standing iron-dark against the freakish green-white play of lightning and corposant. “A good night for an oath most binding!” She beckoned Eastwind and Rahifa to her. They knelt, gripped by the Captain’s powerful voice as she rehearsed to them the terrible words.
 
 Evil though she was, and masterful, and cruel; still, something primitive, something of the sea, surged up in the newest members of _Ragfin_’s crew. They were overborne, and they spoke the words of the corrupted Crew Oath, invoking a god neither had heard of: the Shark God Arusimaté. They felt the weight of the Oath fall upon their shoulders like a sodden net.
 
+The Slink glared at the newest members of the crew with eyes like redbrown coals. Drool dripped from its fangs onto the deck. The Captain pulled it back to the sterndeck.
+
 “Let them be assigned: Rahifa to my watch, Eastwind Shen to the First Mate’s,” Skoan Usad shouted hoarsely. “And now hop to it, you fumblehanded idiots! The wind’s freshening! Get those sails shortened before it rips the canvas out of us!”
+
 
 Rahifa, recovering from the dazed weight of the dreadful Oath, sprang forth, just as she had ever done, and was up the foremast faster than any other sailor on watch. Eastwind, off watch, knew that she had just done something she should never have done. No matter that she had had no real choice.
 
@@ -153,8 +158,9 @@ Rahifa, recovering from the dazed weight of the dreadful Oath, sprang forth, jus
 
 <i>Lasirenn!</i> she called.
 
-<i>Lasirenn… I have wandered too far. If you can hear me, know that I never meant this.</i>
+But where she had always felt Lasirenn’s wry presence in her heart, and often heard the Goddess’s husky voice whispering secretly to her, there was only a sense of emptiness, a dead thick silence like thudding heartbeats.
 
+<i>Lasirenn… I have wandered too far. If you can hear me, know that I never meant this.</i>
 
 
 ###Down to the Gyre
