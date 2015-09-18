@@ -54,7 +54,7 @@ Eastwind ghosted a cracked laugh, leaned into the sail, and came up a point.
 
 The ship was fast. A three-masted topsail schooner, raked masts, with a low sleek hull, running wing and wing before the wind. To fail to catch the ship was death for all of them.
 
-The thundering reach to intercept the distant ship was an agony. Any lesser surfer than Eastwind would have lost it. She hurtled from crest to crest, crashing, crunching the spray outward in sheets, recklessly catching the wind under the sail to lift them over the worst of the chop. She heard poor Belladonna crying out: Paritid rigging cats are the bravest of the crew, but this was nothing she had been bred for. Rahifa crooned to the cat, trying to comfort her. Then, when they were airborne from one swell crest to another, Rahifa laughed aloud and whooped. _Lasirenn, Beautiful Girl,_ Eastwind prayed. _Let my girl and her cat survive this._
+The thundering reach to intercept the distant ship was an agony. Any lesser surfer than Eastwind would have lost it. She hurtled from crest to crest, crashing, crunching the spray outward in sheets, recklessly catching the wind under the sail to lift them over the worst of the chop. She heard poor Belladonna crying out: Paritid rigging cats are the bravest of the crew, but this was nothing she had been bred for. Rahifa crooned to the cat, trying to comfort her. Then, when they were airborne from one swell crest to another, Rahifa laughed aloud and whooped. _Lasirenn, Beautiful Girl,_ Eastwind, who had never been lucky in love, prayed. _Let my girl and her cat survive this._
 
 Their only chance was to get close enough to the ship to be spotted. If the ship was slack, with a poor lookout kept, night and storm would swallow the board’s small sail, and the ship would never stop. That would be a night with no dawn the castaways would ever see.
 
@@ -73,9 +73,9 @@ They were going to live.
 
 “I am Skoan Usad. You have come aboard the _Ragfin_, out of Heke’ah, bound for Flotsam. What are we to do with you?”
 
-“_Do?_ Work our passage, we,” said Rahifa, staring. Surely they would be pressed into service? “Any ship sail Storm Belts need six, five extra hand. Goddess-forgotten _good_ sailors, we.” Eastwind, spent and trembling, with rushes of blackness across her sight, was content to let Rahifa speak for them. "Besides. Rigging cat here with us. Good cat, she. This ship could use more cat." Rahifa's quick seaman's eye hadn't missed the disturbing flickers of motion aboard the _Ragfin_: small furtive crawlings and lifted jointed legs. Arthropod pests of various sorts—stingbeetles, dead sisters, scorpids, conespiders—infested ships, if not kept in check by predators. Paritid rigging cats, with their opposable thumbs, prehensile tails, rugged immune systems, and lightning reflexes, were among the best bugkillers.
+“_Do?_ Work our passage, we,” said Rahifa, staring. Surely they would be pressed into service? “Any ship sail Storm Belts need six, five extra hand. Goddess-forgotten _good_ sailors, we.” Eastwind, spent and trembling, with rushes of blackness across her sight, was content to let Rahifa speak for them. “Besides. Rigging cat here with us. Good cat, she. This ship could use more cat.” Rahifa's quick seaman's eye hadn't missed the disturbing flickers of motion aboard the _Ragfin_: small furtive crawlings and lifted jointed legs. Arthropod pests of various sorts—stingbeetles, dead sisters, scorpids, conespiders—infested ships, if not kept in check by predators. Paritid rigging cats, with their opposable thumbs, prehensile tails, rugged immune systems, and lightning reflexes, were among the best bugkillers.
 
-"Been bitten, me. Been stung. Don't need further those marks." Rahifa, well aware that she spoke insult, looked flatly at the Captain. The Captain returned stare for stare, and a slight snarl besides.
+“Been bitten, me. Been stung. Don't need further those marks.” Rahifa, well aware that she spoke insult, looked flatly at the Captain. The Captain returned stare for stare, and a slight snarl besides.
 
 Captain Skoan Usad was not a reassuring figure. She looked like a mad old sea-thief out of a tale, glaring out of pale blue-gray eyes at the world, the ocean, glaring at any woman she saw. Her ragged gray hair was tarred back like any common sailor’s; her face, breast, and limbs were seamed and scarred and hard. She wore a shoulder scarf and a short sarong. Buckled at her belt was a steel scimitar with a worn, stained hilt. Her bare arms and legs were knotted with muscle.
 
@@ -83,7 +83,7 @@ The ship’s officers and Bosun looked grim and dangerous, a hard lot, cruelty a
 
 The worst of them all was the Priestess, Dhagaska, a short, hunched figure in a slashed robe. In any other company, the Captain would have commanded full attention. But this wild woman with feathers and bones and sharks’ teeth bound in her hair drew the eye. Her black-eyed gaze was sharp, and it burned. She looked at the castaways as if she knew something they did not.
 
-The Captain's snarl suddenly relaxed into a slight grin. "Rigging cat, eh? Yes, I think we can use another rigging cat." There came a slight stir from the crew. One or two snorts of quiet, unsettling laughter. "And we can use more hands, it's true enough. If you're as clever as your mouth, and run as fast."
+The Captain's snarl suddenly relaxed into a slight grin. “Rigging cat, eh? Yes, I think we can use another rigging cat.” There came a slight stir from the crew. One or two snorts of quiet, unsettling laughter. “And we can use more hands, it's true enough. If you're as clever as your mouth, and run as fast.”
 
 The sailors were a mixed lot: Paritids, Antarctics, Racha. And there were some that were of a kind that Eastwind recognized as Bhalong: heavy, muscular women of paler skin, with an air of menace and violence. They came from seaports on the western coast of Osz. Eastwind knew something of Bhalong customs and culture, and had in fact encountered them before. She didn’t like them much, but respected them as fighters. The Captain was one of them.
 
@@ -175,11 +175,11 @@ Being new to the crew, and both attractive women, they were challenged. Eastwind
 
 						#
 
-“What kind of cargo?” asked Lasirenn.
+“What kind of cargo?” asked Eastwind.
 
 “Sailing light, we.” Squallbone Ponela, a squat muscular woman almost as darkskinned as Eastwind, said. They were aloft, shortening sail as dirty weather hissed and whipped around them. They had a hard time tricing up the square sail. The booming canvas fought them like a living thing as they gasketed it. 
 
-“Hold mostly in ballast. Some Siberian silk, black drillwood from Efun. Could carry more easy, but special delivery cargo." She scowled down at the flapping canvas. "Locked cubby in the Captain’s cabin. Man inside.”
+“Hold mostly in ballast. Some Siberian silk, black drillwood from Efun. Could carry more easy, but special delivery cargo.” She scowled down at the flapping canvas. “Locked cubby in the Captain’s cabin. Man inside.”
 
 Eastwind stared. “A _Man?_”
 
@@ -294,7 +294,7 @@ Later, Eastwind asked permission to speak to the Captain. She, still in a great 
 
 The Captain nodded approvingly, as if Eastwind had just taken and computed a difficult star sight. “What is the first thing you see about that shark, Eastwind Shen?”
 
-“It’s... fucking huge, Captain. Never heard of such.”
+“It’s… fucking huge, Captain. Never heard of such.”
 
 She nodded approvingly again. “Sharks have a lateral line, you know what that is?”
 
@@ -318,7 +318,7 @@ The breaking point came when Rahifa heard Belladonna screaming. The genuine dist
 
 What she saw was Oko—Oko, the Bhalong who had sat by when the unfortunate Hagga Sha had mocked her about feeding Belladonna to the Slink—gripping the little cat tightly in her monstrous hands. The Captain was approaching, with a partly-disguised eagerness, her Slink on a long lead.
 
-Rahifa’s brilliance was in prompt action, not thought. She drew her knife and waited around the side of the deckhouse. Listening… waiting...
+Rahifa’s brilliance was in prompt action, not thought. She drew her knife and waited around the side of the deckhouse. Listening… waiting…
 
 Belladonna squalled in fury and terror, clawing and biting at Oko, writhing without effect in her iron grip. The Slink prowled lazily forward, its great jaws slavering, tail lashing. Oko watched it narrowly, clearly waiting to judge the time to throw the little animal to the monster.
 
@@ -483,7 +483,7 @@ They lay on a bench, Eastwind’s arms around Rahifa. Belladonna snuggled up aga
 
 “Yes.” Eastwind smiled. “Together on the board, we, standing. I held you. You put out a foot, and cut the face of the wave with your toe.”
 
-“That was the third best time, in all my life, me,” Rahifa said. “...I think I go tie up Makarita Pier now, me.”
+“That was the third best time, in all my life, me,” Rahifa said. “…I think I go tie up Makarita Pier now, me.”
 
 “No, Rahifa, stay with me a while longer.”
 
