@@ -193,7 +193,7 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 “No. Hear about it. Women say Makarita there.” Makarita is the Paritid legend of the afterlife, the seaport that may never be visited by the living.
 
-“Flotsam one of the biggest weed raft on any ocean. Old Biologist use it for wartime dump, they. Horrible things. After centuries, the mutagen and wild speciation they calm down… but folk from Flotsam worth a lot to women trying to penetrate Wild Regions. Afreyk, say, or up in Matau maybe. So _Ragfin_ a slaver both ways.” She snarled and shook her head as if trying to shake off a spider or scorpid.
+“Women say. Women say shark-puke nonsense all kind. Flotsam one of the biggest weed raft on any ocean. Old Biologist use it for wartime dump, they. Horrible things. After centuries, the mutagen they decay or get chelated. And wild speciation they calm down… but folk from Flotsam worth a lot to women trying to penetrate Wild Regions. Afreyk, say, or up in Matau maybe. So _Ragfin_ a slaver both ways.” She snarled and shook her head as if trying to shake off a conespider or scorpid.
 
 “Watch yourself, you,” said Eastwind sharply. The footrope was slippery, and Squallbone was shaking her head too hard from side to side. “Got to get this sail in and get back down on deck, we.” The wind’s howl was getting worse, and the hurtling clouds above were sinking down towards them, like the belly of some great dark beast.
 
@@ -203,13 +203,13 @@ Of course, no answer came.
 
 						#
 
-The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. The decks were dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly. The sea rushed, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
+The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. The decks were dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly, smoking. The sea rushed, _Ragfin_ rolled slowly, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
 
 Eastwind’s Old Biologist eyes were keen as a cat’s in the gloom. The Watch Hexmark, which all of the _Ragfin_’s sailors must study at the beginning of the watch, was on the foc’sle bulkhead. She stole silently to it, crouched, and yielded to a deeper level of identity. A moment later she stood, Eastwind Shen no longer.
 
 Tryggva Steinlaugsdottir looked out of Eastwind’s eyes: cool and appraising. She did not have Eastwind’s skills and knowledge, but she held in memory a rough awareness of the layout of the Ragfin, and the location and duties of the sailors on watch.
 
-She brought out the darklight that Eastwind carried. It was indistinguishable from the smoking paraphernalia that sailors carried; but the tiny coal inside cast infrared light that normal human eyes couldn’t see. For her, it was as good as a bullseye lantern. 
+She brought out the darklight that Eastwind carried. It was indistinguishable from the smoking paraphernalia that sailors carried; but the splinter of evercoal inside cast infrared light that normal human eyes couldn’t see. For her, it was as good as a bullseye lantern. 
 
 The Hexmark was a disc cut and inked and burned into the weathered gray wood. Its black lines and fields, its scrolled calligraphy, formed a densely complex blur. She studied the mark for some time, gradually understanding its purpose and nature. Then, with inhumanly steady hands, with ink and engraving tools and the hot element of the darklight, she began to make almost imperceptible alterations.
 
@@ -221,15 +221,23 @@ She would be back on other dark nights. And every time the sailors studied the H
 
 The _Ragfin_ sailed down into the Ring, the outermost edge of the Gyre. Roaring easterlies ruled the sea there, and a heavy roof of cloud rushed overhead in oily streaks.
 
-The ship still dodged knots of storm, but as they traversed the Ring the skies gradually opened up: the roof of cloud lifted and broke up into tatters and fringes, with the high skies showing white and gray and, as they pushed south, even gradually darkening blue.
+The ship, rolling and heeling on a beam reach, still dodged knots of storm, but as they traversed the Ring the skies gradually opened up: the roof of cloud lifted and broke up into tatters and fringes, with the high skies showing white and gray and, as they pushed south, even gradually darkening blue.
 
 Some three days in, _Ragfin_ entered the interior of the Gyre. Bad Water, all of the southerners called it. The sun began to show as a pale watery smear, and the moon a muffled glow streaked with dark bars at night, falling from the full.
 
-Storms in Bad Water come in long, heavy bulks, with a weight of wind and lashings of rain. In the outer parts of Bad Wader, there was rigging to be mended most watches. But gradually, the burden of heavy weather eased, because the center of Bad Water was clogged with increasing masses of floating weed.
+Storms in Bad Water come in long, heavy bulks, with a weight of wind and lashings of rain. In the outer parts of Bad Water, there was rigging to be mended most watches. But gradually, the burden of heavy weather eased, because the center of Bad Water was clogged with increasing masses of floating weed.
 
 Great streaks and drifts and reaches of seaweed, amber and brown and dark red in the daylight, lay like mats and skins on the surface, gentling the waves and muffling even the great swells. The heavy winds, with their freight of moisture and warmth, rushed across the surface, but were unable to raise waves except in the open intervals of water. Mist and spray moved in great lateral banks, blocking vision. The lookouts were fiercely vigilant aloft, crying out warnings of the floating masses of weed. When the Ragfin plowed into a heavy bank of weed, sailors with poles (and in the worst cases, billhooks and long-hafted scythes made for the purpose) had to push and hack it away from the bow. This was heavy work; and they would curse the lookouts roundly. Sail was shortened at night, because the ship dared not make speed unless the moon was unveiled and bright, so that the floating weed would show rough against the silvery surfaces, or the waves would indicate clear water.
 
 Bad Water was a place of rich life. The water itself, unlike the deep blue of the outer oceans, had distinct tinges of green. Schools of fish shoaled around the weed, and many species of seabirds hunted and fished the area, often scooping up squids and less familiar tentacled creatures.
+
+Fleets of delicate bubbles, which the sailors told Eastwind trailed deadly venomous tendrils far below the water, floated with airy lightness. Some colorless and some blue or purple, they drifted together, making most other creatures stand off. They would glitter in the sunrise especially, when the early burning light of dawn would lance through the fire-edged banks of low cloud.
+
+Other wonders were to be seen in Bad Water. One day the lookout called out, “Eyes o’ the sea, two points off the starboard bow,” and such sailors as were awake and about clambered into the rigging for a closer look. To Rahifa, who went up into the crow’s nest and cajoled a look through the spyglass, the Eyes of the Sea seemed like a strange framework, as of masts and yards but subtly organic in form, floating on the distant sea. As they passed closer, maybe half a mile, it showed giant eyeballs socketed at various high points, looking this way and that. For a moment, one great eye, showing a bright yellow-green iris, stared back directly at her. She had the strange feeling that a vast intelligence, great as the sea, inspected her at this distance, the huge eye resolving her shape to its satisfaction; and stared into her, and dismissed her. 
+
+Then the great eye roved on, and a shudder took her. She handed the spyglass back to the lookout, who smirked.
+
+“Takes everyone that way, does.”
 
 						#
 
