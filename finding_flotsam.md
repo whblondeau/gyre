@@ -186,7 +186,7 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 “Trade for eco-analyst, I hear, me.” She put a gasket in her teeth, gathered another length of sail, secured it. “Ever been Flotsam?”
 
-“No. Hear about it. Women say Makarita there.” Makarita, the Paritid legend of the afterlife, the seaport that may never be visited by the living.
+“No. Hear about it. Women say Makarita there.” Makarita, the Paritid legend of the afterlife, the famous seaport that may never be visited by the living.
 
 “Women say. Women say shark-puke nonsense all kind. 
 
@@ -503,5 +503,5 @@ They lay on a bench, Eastwind’s arms around Rahifa. Belladonna snuggled up aga
 
 Rahifa smiled, and lifted her face to kiss Eastwind again, and looked again out at the breaks of Flotsam. Her eyes were bright and clear. “Why, there it is!” she cried. And Rahifa Ruan never spoke again.
 
-“Hoist one for me in Makarita, beautiful…” Eastwind Shen whispered, choking. The rigging cat mewed and purred and tried to warm her girl, but even her great heart could not bring Rahifa back. And Lasirenn’s blazing hair unfurled redgold overhead, in a deep blue sky that spoke of storms to come, next day, or the day after.
+“Hoist one for me in the famous seaport, beautiful,” Eastwind Shen whispered, choking. The rigging cat mewed and purred and tried to warm her girl, but even her great heart could not bring Rahifa back. And Lasirenn’s blazing hair unfurled redgold overhead, in a deep blue sky that spoke of storms to come, next day, or the day after.
 
