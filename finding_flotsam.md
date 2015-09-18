@@ -73,7 +73,7 @@ They were going to live.
 
 “I am Skoan Usad. You have come aboard the _Ragfin_, out of Heke’ah, bound for Flotsam. What are we to do with you?”
 
-“_Do?_ Work our passage, we,” said Rahifa, staring. Surely they would be pressed into service? “Any ship sail Storm Belts need six, five extra hand. Goddess-forgotten _good_ sailors, we.” Eastwind, spent and trembling, with rushes of blackness across her sight, was content to let Rahifa speak for them. “Besides. Rigging cat here with us. Good cat, she. This ship could use more cat.” Rahifa's quick seaman's eye hadn't missed the disturbing flickers of motion aboard the _Ragfin_: small furtive crawlings and lifted jointed legs. Arthropod pests of various sorts—stingbeetles, dead sisters, scorpids, conespiders—infested ships, if not kept in check by predators. Paritid rigging cats, with their opposable thumbs, prehensile tails, rugged immune systems, and lightning reflexes, were among the best bugkillers.
+“_Do?_ Work our passage, we,” said Rahifa, staring. “Any ship sail Storm Belts need six, five extra hand. Goddess-forgotten _good_ sailors, we.” Eastwind, spent and trembling, with rushes of blackness across her sight, was content to let Rahifa speak for them. “Besides. Rigging cat here with us. Good cat, she. This ship could use more cat.” Rahifa's quick seaman's eye hadn't missed the disturbing flickers of motion aboard the _Ragfin_: small furtive crawlings and lifted jointed legs. Arthropod pests of various sorts—stingbeetles, dead sisters, scorpids, conespiders—infested ships, if not kept in check by predators. Paritid rigging cats, with their opposable thumbs, prehensile tails, rugged immune systems, and lightning reflexes, were among the best bugkillers.
 
 “Been bitten, me. Been stung. Don't need further those marks.” Rahifa, well aware that she spoke insult, looked flatly at the Captain. The Captain returned stare for stare, and a slight snarl besides.
 
@@ -105,7 +105,7 @@ The sailors looked at them with neither favor nor malice, except for the Bhalong
 
 “Big tan women don’t like us, they,” murmured Rahifa.
 
-“Bhalong; like nobody, they.” Eastwind, studying the sneering paleskinned sailors for genuine signs of trouble, was reassured.
+“Bhalong; like nobody, they.”
 
 “I speak against them!”
 
@@ -145,12 +145,11 @@ Skoan Usad went to the Slink’s cage. The hunched, scale-armored beast stretche
 
 “A night of power!” she cried, standing iron-dark against the freakish green-white play of lightning and corposant. “A good night for an oath most binding!” She beckoned Eastwind and Rahifa to her. They knelt, gripped by the Captain’s powerful voice as she rehearsed to them the terrible words.
 
-Evil though she was, and masterful, and cruel; still, something primitive, something of the sea, surged up in the newest members of _Ragfin_’s crew. They were overborne, and they spoke the words of the corrupted Crew Oath, invoking a god neither had heard of: the Shark God Arusimaté. They felt the weight of the Oath fall upon their shoulders like a sodden net.
+Something primitive, something of the sea, surged up in the castaaways. They were overborne, and they spoke the words of the corrupted Crew Oath, invoking a god neither had heard of: the Shark God Arusimaté. They felt the weight of the Oath fall upon their shoulders like a sodden net.
 
 The Slink glared at the newest members of the crew with eyes like redbrown coals. Drool dripped from its fangs onto the deck. The Captain pulled it back to the sterndeck.
 
 “Let them be assigned: Rahifa to my watch, Eastwind Shen to the First Mate’s,” Skoan Usad shouted hoarsely. “And now hop to it, you fumblehanded idiots! The wind’s freshening! Get those sails shortened before it rips the canvas out of us!”
-
 
 Rahifa, recovering from the dazed weight of the dreadful Oath, sprang forth, just as she had ever done, and was up the foremast faster than any other sailor on watch. Eastwind, off watch, knew that she had just done something she should never have done. No matter that she had had no real choice.
 
@@ -171,15 +170,13 @@ They left the tall frightening skies of the Fingerbones, and the uneasy mountain
 
 Rahifa and Eastwind proved out. They were always quick to spring to any dangerous or hard task; good aloft in dirty weather. Sails they had gasketed didn’t blow loose. Eastwind, with her Old Biologist eyes and endurance, was especially valuable in the rigging at night. Both were good sailmakers and handy with a marlinespike. They soon earned the trust of the watch officers and even gained the grudging respect of the Bhalong.
 
-Being new to the crew, and both attractive women, they were challenged. Eastwind and Rahifa were old hands. They took their lumps, responded within measure, left no permanent hatreds. 
-
 						#
 
 “What kind of cargo?” asked Eastwind.
 
-“Sailing light, we.” Squallbone Ponela, a squat muscular woman almost as darkskinned as Eastwind, said. They were aloft, shortening sail as dirty weather hissed and whipped around them. They had a hard time tricing up the square sail. The booming canvas fought them like a living thing as they gasketed it. 
+“Sailing light, we.” Squallbone Ponela, a squat muscular woman almost as darkskinned as Eastwind, said. They were aloft, shortening sail as dirty weather hissed and whipped around them. They had a hard time tricing up the square sail. The booming canvas fought them like a living thing. 
 
-“Hold mostly in ballast. Some Siberian silk, black drillwood from Efun. Could carry more easy, but special delivery cargo.” She scowled down at the flapping canvas. “Locked cubby in the Captain’s cabin. Man inside.”
+“Hold mostly in ballast. Some Siberian silk, black drillwood from Efun. Could carry more easy, but special cargo, we.” She scowled down at the flapping canvas. “Locked cubby in the Captain’s cabin. Man inside.”
 
 Eastwind stared. “A _Man?_”
 
@@ -189,9 +186,11 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 “Trade for eco-analyst, I hear, me.” She put a gasket in her teeth, gathered another length of sail, secured it. “Ever been Flotsam?”
 
-“No. Hear about it. Women say Makarita there.” Makarita is the Paritid legend of the afterlife, the seaport that may never be visited by the living.
+“No. Hear about it. Women say Makarita there.” Makarita, the Paritid legend of the afterlife, the seaport that may never be visited by the living.
 
-“Women say. Women say shark-puke nonsense all kind. Flotsam one of the biggest weed raft on any ocean. Old Biologist use it for wartime dump, they. Horrible things. After centuries, the mutagen they decay or get chelated. And wild speciation they calm down… but folk from Flotsam worth a lot to women trying to penetrate Wild Regions. Afreyk, say, or up in Matau maybe. So _Ragfin_ a slaver both ways.” She snarled and shook her head as if trying to shake off a conespider or scorpid.
+“Women say. Women say shark-puke nonsense all kind. 
+
+“Flotsam one of the biggest weed raft on any ocean. Old Biologist use it for wartime dump, they. Horrible things. After centuries, mutagen they decay or get chelated out. Wild speciation they calm down… but folk from Flotsam worth a lot to women trying to penetrate Wild Regions. Afreyk, say, or up in Matau maybe. So _Ragfin_ a slaver both ways.” She snarled and shook her head as if trying to shake off a conespider or scorpid.
 
 “Watch yourself, you,” said Eastwind sharply. The footrope was slippery, and Squallbone was shaking her head too hard from side to side. “Got to get this sail in, get back down on deck, we.” The wind’s howl was getting worse, and the hurtling clouds above were sinking down towards them, like the belly of some great dark beast.
 
@@ -201,18 +200,17 @@ Only muffled silence answered.
 
 						#
 
-The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. The decks were dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly, smoking. The sea rushed, _Ragfin_ rolled slowly, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
+The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. Decks dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly, smoking. The sea rushed, _Ragfin_ rolled slowly, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
 
 Eastwind’s Old Biologist eyes were keen as a cat’s in the gloom. The Watch Hexmark, which all of the _Ragfin_’s sailors must study at the beginning of the watch, was on the foc’sle bulkhead. She stole silently to it, crouched, and yielded to a deeper level of identity. A moment later she stood, Eastwind Shen no longer.
 
 Tryggva Steinlaugsdottir looked out of Eastwind’s eyes: cool and appraising. She did not have Eastwind’s skills and knowledge, but she held in memory a rough awareness of the layout of the Ragfin, and the location and duties of the sailors on watch.
 
-She brought out the darklight that Eastwind carried. It was indistinguishable from the smoking paraphernalia that sailors carried; but the splinter of evercoal inside cast infrared light that normal human eyes couldn’t see. For her, it was as good as a bullseye lantern. 
+She brought out the darklight that Eastwind carried. It was indistinguishable from the smoking paraphernalia that sailors carried; but the evercoal splinter inside cast infrared light that normal human eyes couldn’t see. For her, it was as good as a bullseye lantern. 
 
 The Hexmark was a disc cut and inked and burned into the weathered gray wood. Its black lines and fields, its scrolled calligraphy, formed a densely complex blur. She studied the mark for some time, gradually understanding its purpose and nature. Then, with inhumanly steady hands, with ink and engraving tools and the hot element of the darklight, she began to make almost imperceptible alterations.
 
-She would be back on other dark nights. And every time the sailors studied the Hexmark, it would work to undermine the Crew Oath, not to sustain it.
-
+Tryggva would be back on other dark nights. And every time the sailors studied the Hexmark, it would work to undermine the Crew Oath, not to sustain it.
 
 
 ###Sailing Bad Water
@@ -225,13 +223,13 @@ Some three days in, _Ragfin_ entered the interior of the Gyre. Bad Water, all of
 
 Storms in Bad Water come in long, heavy bulks, with a weight of wind and lashings of rain. In the outer parts of Bad Water, there was rigging to be mended most watches. But gradually, the burden of heavy weather eased, because the center of Bad Water was clogged with increasing masses of floating weed.
 
-Great streaks and drifts and reaches of seaweed, amber and brown and dark red in the daylight, lay like mats and skins on the surface, gentling the waves and muffling even the great swells. The heavy winds, with their freight of moisture and warmth, rushed across the surface, but were unable to raise waves except in the open intervals of water. Mist and spray moved in great lateral banks, blocking vision. The lookouts were fiercely vigilant aloft, crying out warnings of the floating masses of weed. When the Ragfin plowed into a heavy bank of weed, sailors with poles (and in the worst cases, billhooks and long-hafted scythes made for the purpose) had to push and hack it away from the bow. This was heavy work; and they would curse the lookouts roundly. Sail was shortened at night, because the ship dared not make speed unless the moon was unveiled and bright, so that the floating weed would show rough against the silvery surfaces, or the waves would indicate clear water.
+Great streaks and drifts and reaches of seaweed, amber and brown and dark red in the daylight, lay like mats and skins on the surface, gentling the waves and muffling even the great swells. The heavy winds, with their freight of moisture and warmth, rushed across the surface, but were unable to raise waves except in the open intervals of water. Mist and spray moved in great lateral banks, blocking vision. The lookouts were fiercely vigilant aloft, crying out warnings of the floating masses of weed. When the _Ragfin_ plowed into a heavy bank of weed, sailors with poles (and in the worst cases, billhooks and long-hafted scythes made for the purpose) had to push and hack it away from the bow. This was heavy work; and they would curse the lookouts roundly.
 
 Bad Water was a place of rich life. The water itself, unlike the deep blue of the outer oceans, had distinct tinges of green. Schools of fish shoaled around the weed, and many species of seabirds hunted and fished the area, often scooping up squids and less familiar tentacled creatures.
 
 Fleets of delicate bubbles, which the sailors told Eastwind trailed deadly venomous tendrils far below the water, floated with airy lightness. Some colorless and some blue or purple, they drifted together, making most other creatures stand off. They would glitter in the sunrise especially, when the early burning light of dawn would lance through the fire-edged banks of low cloud.
 
-Other wonders were to be seen in Bad Water. One day the lookout called out, “Eyes o’ the sea, two points off the starboard bow,” and such sailors as were awake and about clambered into the rigging for a closer look. To Rahifa, who went up into the crow’s nest and cajoled a look through the spyglass, the Eyes of the Sea seemed like a strange framework, as of masts and yards but subtly organic in form, floating on the distant sea. As they passed closer, maybe half a mile, it showed giant eyeballs socketed at various high points, looking this way and that. For a moment, one great eye, showing a bright yellow-green iris, stared back directly at her. She had the strange feeling that a vast intelligence, great as the sea, inspected her at this distance, the huge eye resolving her shape to its satisfaction; and stared into her, and dismissed her. 
+Other wonders were to be seen in Bad Water. One day the lookout called out, “Eyes o’ the sea, two points off the starboard bow,” and such sailors as were awake and about clambered into the rigging for a closer look. To Rahifa, who went up into the crow’s nest and cajoled a look through the spyglass, the Eyes of the Sea seemed like a strange framework, as of ramshackle masts and yards but subtly organic in form. As they passed closer, maybe half a mile, it showed giant eyeballs socketed at various high points, looking this way and that. For a moment, one great eye, showing a bright yellow-green iris, stared back directly at her. She had the strange feeling that a vast intelligence, great as the sea itself, inspected her at this distance, the huge eye resolving her shape to its satisfaction; and stared into her, and dismissed her. 
 
 Then the great eye roved on, and a shudder took her. She handed the spyglass back to the lookout, who smirked.
 
@@ -239,12 +237,13 @@ Then the great eye roved on, and a shudder took her. She handed the spyglass bac
 
 						#
 
-“How can we even find Flotsam?” Rahifa mused as they shared a meal with a few of the other off-watch sailors.
+“How can we even _find_ Flotsam?” Rahifa mused as they shared a meal with a few of the other off-watch sailors.
+
 “What do you mean, pretty girl?” leered one of the Bhalong, a big sailor named Hagga Sha. Rahifa, who didn’t like her, gestured impatiently.
 
-“No Radio. Not on this ship, sure. And no Passage Bird going to come anywhere near.” She looked at the big sailor, watchful for anger. But the Bhalong just grinned wider. Rahifa, seeing something in the grin, reckoned that Hagga might have been appealing—if she hadn’t long ago decided that it was more fun to be a scumspider.
+“No radio. Not on this ship, sure. And no Passage Bird going to come anywhere near.” She looked at the big sailor, watchful for anger. But the Bhalong just grinned wider.
 
-“Best step carefully, Paritid girl. Never know but what you might end up feeding the Captain's Slink.” Hagga laughed silently. “Something got to feed it. Your little rigging cat maybe?” The sailor shrugged. “Too small—”
+“Best step carefully, Paritid girl. Never know but what Captain might feed you to her Slink.” Hagga laughed silently. “Something got to feed it. Your little rigging cat maybe?” The sailor shrugged. “Too small—”
 
 Hagga’s mistake was to assume that her size and strength would let her control a brawl. Rahifa was not only skilled, she was fast and strong. All would have been ordinary, except Rahifa broke Hagga’s collarbone with an elbow strike. Hagga seemed shocked and horrified, then terrified. “Bitch, you kill me, bitch,” she moaned. The other sailors, a rough crew, laughed or looked at Hagga curiously; a broken collarbone was no great matter.
 
@@ -254,7 +253,7 @@ For crippling a watchstander, Rahifa drew extra duty. When she went down into si
 
 The meaning of that was made sickeningly clear two days later. The _Ragfin_ had passed near enough through the center of the Gyre. It was the Captain’s watch, morning. The Bosun whistled the All Hands.
 
-The crew assembled. The Captain looked at them. “We need a guide,” she began abruptly. “We cannot find Flotsam without it. The Shark God has seen our need, and filled it in a shipshape way.” She bent the weight of her dread gaze upon them. “Some of you are proven; women I can trust. Some of you not.
+The crew assembled. The Captain looked at them. “We need a guide,” she began abruptly. “We cannot find Flotsam without it. The Shark God has seen our need, and filled it in a shipshape way.” She bent the weight of her dread gaze upon them. “Some of you are proven. Women I can trust. Some of you not.
 
 “But to remove all doubt, I call upon _all_ to submit, under authority of the Crew Oath.” The Captain’s voice rang out with a weight of solemn thunder, like a distant approaching storm. Each woman there felt irresistibly impelled to sink to one knee.
 
@@ -270,7 +269,7 @@ Dhagaska, carrying a carven club that seemed too heavy for a person of her statu
 
 Then the Captain uncaged her Slink, which snarled and huffed, apparently wishing nothing more than to race along the rows of kneeling sailors, ripping, snapping, and dismembering. As before, she kept it on a short leash, and did not neglect to keep her scimitar in hand.
 
-After a time, at the Captain’s order, the Bosun went below to Sick Bay, and the palpable horror began. For she brought up, screaming and begging, Hagga, the sailor that Rahifa had crippled. Her terror was piteous to see. The Bosun gestured to Oko, another Bhalong sailor who had been there when Hagga had been injured.
+After a time, at the Captain’s order, the Bosun went below to Sick Bay, and the horror began. For she brought up, screaming and begging, Hagga, the sailor that Rahifa had crippled. Her terror was piteous to see. The Bosun gestured to Oko, another Bhalong sailor who had been there when Hagga had been injured.
 
 But, in the extremity of her terror, Hagga’s plunging loosened the Bosun’s grasp before Oko arrived to assist in whatever grim act was to be played. She ran, mindlessly shrieking, back toward the stern deck.
 
@@ -284,13 +283,13 @@ The Captain dragged her bloody-mawed Slink to its cage. Almost it seemed that it
 
 “Crew Oath: released!” the Captain sang out. The sailors stood, wan and fearful for the most part, not knowing where to go.
 
-“A woman to the foretop to watch our guide! Those off watch, come forward and see what manner of guide we have!”
+“A woman to the foretop to watch our guide! Those off watch, come forward and see what manner of guide Arusimaté gives us!”
 
 Out ahead of the _Ragfin_ some hundred and fifty yards swam a shark of unbelievable size. Its dorsal fin stood clear of the water, perhaps half the height of a woman.
 
 Later, Eastwind asked permission to speak to the Captain. She, still in a great good mood, allowed it.
 
-“How, Captain, can the shark have any idea where to find Flotsam?”
+“How, Captain, the shark have any idea where to find Flotsam?”
 
 The Captain nodded approvingly, as if Eastwind had just taken and computed a difficult star sight. “What is the first thing you see about that shark, Eastwind Shen?”
 
@@ -316,25 +315,25 @@ The topic of feeding the Shark was also much studied in the fo’c’sle. Some o
 
 The breaking point came when Rahifa heard Belladonna screaming. The genuine distress in the sound brought her running.
 
-What she saw was Oko—Oko, the Bhalong who had sat by when the unfortunate Hagga Sha had mocked her about feeding Belladonna to the Slink—gripping the little cat tightly in her monstrous hands. The Captain was approaching, with a partly-disguised eagerness, her Slink on a long lead.
+What she saw was Oko, the Bhalong who had sat by when the unfortunate Hagga Sha had mocked her about feeding Belladonna to the Slink, gripping the little cat tightly in her strong hands. The Captain was approaching, with a partly-disguised eagerness, her Slink on a long lead.
 
 Rahifa’s brilliance was in prompt action, not thought. She drew her knife and waited around the side of the deckhouse. Listening… waiting…
 
 Belladonna squalled in fury and terror, clawing and biting at Oko, writhing without effect in her iron grip. The Slink prowled lazily forward, its great jaws slavering, tail lashing. Oko watched it narrowly, clearly waiting to judge the time to throw the little animal to the monster.
 
-Rahifa, a blur of swift hard motion, leaped upon the Slink, stabbing it deeply into its side, once, twice. Her sailor’s knife was not long, but it was stout and sharp. The Slink roared and screamed, and whirled swift as a snake, fanged jaws lunging towards Rahifa. She struck it on the side of its head with the knife-hilt, knocking it aside. The Bhalongs nearby lunged forward, then gave back in terror as the frenzied Slink, bright madness burning in its eyes, whirled again, menacing any who came near.
+Rahifa, a blur of swift hard motion, leaped upon the Slink, stabbing it deeply into its side, once, twice. Her sailor’s knife was not long, but it was stout and sharp, punching through the scaly hide. The Slink roared and screamed, and whirled swift as a snake, fanged jaws lunging towards Rahifa. She struck it on the side of its head with the knife-hilt, knocking it aside. The Bhalongs nearby lunged forward, then gave back in terror as the frenzied beast, bright madness burning in its eyes, whirled again, menacing any who came near.
 
 “_Crew Oath,_” Skoan Usad shouted in her great gravelly voice. “Rahifa Ruan, I call you to _obedience!_”
 
 Caught in the backwash of that great powerful shout, most of the crew faced the Captain in full submission. Rahifa, against whom it was directed, halted, fell to one knee, staggered and gripped by the Oath's unlawful power. She looked up at the Slink, that had ceased to snap at its own side, and was now snarling at her, lashing its tail.
 
-When it turned again, gathering its powerful haunches to spring upon Rahifa, a sudden graybrown streak leaped upon its back, and clawed at its eyes in passing: Belladonna, whom Oko in shock had let free. Then the rigging cat was off and away, narrowly missing the furious snap of those jaws.
+The Slink gathered its powerful haunches to spring upon Rahifa—but a sudden graybrown streak leaped upon its back, and clawed at its eyes in passing: Belladonna, whom Oko in shock had let free. Then the rigging cat was off and away, narrowly missing the furious snap of those jaws.
 
-The Slink shrieked in fury. One of its eyes was torn and leaking, blinded by the cat’s strike. The other glared with a greater madness, as it cast about, looking for any victim. The crew in terror scattered back, all of the Bhalongs drawing their long knives. The Slink’s eye fell upon the Captain, and suddenly it sprang at her, howling. The Captain, roaring in fury, and either too wise to flee from the Slink or too enraged, sprang to meet it. Her scimitar swept up in a glittering arc, then fell, splitting the Slink’s skull—the skull whose jaws had locked, in dying spasm, on her other arm. The scimitar clattered to the deck as she wrenched those terrible jaws back and forth, flaying her arm further, until she could break the lower jaw by main force. The Slink’s body, still feebly thrashing and coiling in death, thudded to the deck.
+The Slink shrieked in fury. One of its eyes was torn and leaking, blinded by the cat’s strike. The other glared with a greater madness, as it cast about, looking for any victim. The crew in terror scattered back, all of the Bhalongs drawing their long knives. The Slink’s eye fell upon the Captain, and suddenly it sprang at her, howling. The Captain, roaring in fury, and either too wise to flee from the Slink or too enraged, sprang to meet it. Her scimitar swept up in a glittering arc, then fell, splitting the Slink’s skull—the skull whose jaws had locked, in dying spasm, on her other arm. The scimitar clattered to the deck as she wrenched those terrible jaws back and forth, flaying her arm further, until she could break the lower jaw by main force. The Slink’s body, still thrashing and coiling in death, thudded to the deck.
 
-Most of the crew stood in shock, hindered by the Captain’s last invocation of the Oath. But one figure on the deck moved with full cognizance and speed: Dhagaska the Priestess, who pounced at Belladonna where she crouched hissing on the starboard ladder. Belladonna almost escaped, but the priestess seized the little cat’s tail. With a shout of gratified hatred, the Priestess hurled the cat over the port rail. Belladonna screamed as she went.
+Most of the crew stood hindered by the Captain’s last invocation of the Oath. But one figure on the deck moved with full cognizance and speed: Dhagaska the Priestess, who pounced at Belladonna where she crouched hissing on the starboard ladder. Belladonna almost escaped, but the priestess seized the little cat’s tail. With a shout of gratified hatred, the Priestess hurled the cat over the port rail. Belladonna screamed as she went.
 
-The scream jolted Rahifa back to herself. Running between the other sailors, she vaulted the rail, and dove cleanly into the waters below, swimming to the desperately struggling cat.
+The scream jolted Rahifa back to herself. Running between the other sailors, she vaulted the rail, and dove cleanly into the waters below, swimming to the desperately struggling animal.
 
 The First Mate shouted, but what she wished to say was silenced as Eastwind fell from aloft, striking the officer with her heels. The First’s back broke with a horrid _crack_ and she fell to the deck, shuddering and flailing her arms, not knowing what had happened to her. Eastwind rolled and sprang, moving so swiftly that the rest of the crew seemed slow and foolish. She rose with Skoan Usad’s scimitar in one hand, and then, with astonishing strength, hauled the heavy, injured Captain to her feet. The sailors shouted and lunged at her as she dragged the stumbling captive across the deck to fetch up against the port gunwale. The Captain, injured and shaken, nonetheless drew a dagger and struck at Eastwind. Eastwind checked it with the scimitar near the hilt, bearing in with a terrible strength matching the Captain’s.
 
@@ -346,7 +345,7 @@ Then, with a cunning stoop and lift and roll of shoulder, she threw Skoan Usad i
 
 <i>“Woman overboard!”</i> Afya shouted. <i>“Hard aport!”</i>
 
-<i>“Hard aport!”</i> echoed the First Mate in an agonized shriek, using a voice that had pierced many a storm. “Spring to it, you slugs! Captain’s gone over the side!”
+<i>“Hard aport!”</i> echoed the First Mate in an agonized shriek, using a voice that had pierced many a storm. “Spring to it, you slugs! Captain’s gone overside!”
 
 The crew braced the yards around then, shrinking away from Afya, who stood hard-faced, brandishing the Captain’s scimitar. She had no wish to interfere with their handling of the ship. As the ship swung and heeled, she looked out at the sea. She could see the bright gold of Rahifa’s hair, and the Captain too, closer aboard.
 
@@ -386,17 +385,17 @@ At the same time, some of the Bhalong had similarly cast a line to the Captain. 
 
 “You’re no captain of ours!” they shouted. 
 
-“Bhalong say that a lot, seemingly,” Afya snarled. The scimitar lay on the deck near the bulkhead where the whaling lance had been mounted, so she drew her own knife and sprang toward them, then ducked aside as they leaped at her, blades hissing close.
+“Bhalong say that a lot,” Afya snarled. The scimitar lay on the deck near the bulkhead where the whaling lance had been mounted, so she drew her own knife and sprang toward them, then ducked aside as they leaped at her, blades hissing close.
 
 They were strong and horribly quick. They drove her back, pelting into her like a wave coming across the deck. But this was a woman who had danced through ankle-deep blood on more than one vessel. Slipping aside, shifting, fading, she led them back toward the aft cabin. Their fierce blows missed her, or left thin red slices on her dark skin. But then another sailor bounded to the deck behind her, an Antarctic woman with heavy shoulders and a cruel twist to her face. Her knife sank into Afya’s back, but not far, striking the shoulder blade and halting there for a moment. Afya threw herself forward, a splash of blood trailing from her torn back, bright red against the jet-black skin. She staggered three steps forward—and then went down upon her hands and knees. Her hand, though, fell unerringly on the hilt of the scimitar she’d dropped when they wrested the lance away from the bulkhead.
 
-Afya Mankiller rose sword in hand from the deck with a bound like a catapult releasing, howling a berserk shriek, the whirl of the scimitar no more silver than her mad molten eyes. The sailors who had been chasing her were themselves too infuriated to pause, and flung themselves upon her.
+Afya Mankiller rose sword in hand from the deck like a catapult releasing, howling a berserk shriek, the whirl of the scimitar no more silver than her mad molten eyes. The sailors who had been chasing her were themselves too infuriated to pause, and flung themselves upon her.
 
 Against Afya, famous swordswoman of the bloody Brass Ocean, that sinewy growling rush seemed slow and cumbersome. She flowed around and through them, dancing, slicing, surefooted. Their blows missed. Hers did not. In moments, three Bhalong and one Antarctic sprawled on the rolling deck, dead or dying. 
 
-Afya shook her head, mumbling past a smashed lip, “What other bitches.” She spat, coughed, shook her bloodstreaked silvergreen mane, shouted, “_What other bitches_ want to say I’m not the Captain? Come forth, as many of you as dare!” Her voice spiraled up into the scream of a seabutcher bird. “Come forth, sadpuppies, and I’ll spill your guts until the honest crew can scarce walk the deck!”
+The pirate shook her head, mumbling past a smashed lip, “What other bitches.” She spat, coughed, shook her bloodstreaked silvergreen mane, shouted, “_What other bitches_ want to say I’m not Captain? Come forth, as many of you as dare!” Her voice spiraled up into the scream of a seabutcher bird. “Come forth, sadpuppies, and I’ll spill your guts until the honest crew can scarce walk the deck!”
 
-She was a terrible sight, tall, gaunt, brown and black, slashed with wounds, blood from a shrewd slash on her forehead leaking down into her eyes so that she must keep shaking her head to clear it; standing slinky as a dancer, lethal as a cobra, casting her malignant gaze fore and aft, gripping a blood-clotted sword that dripped on the deck.
+She was a terrible sight, tall, gaunt, brown and black, cut with bloody wounds, blood from a shrewd slash on her forehead leaking down into her eyes so that she must keep shaking her head to clear it; standing slinky as a dancer, lethal as a cobra, casting her malignant gaze fore and aft, gripping a blood-clotted sword that dripped on the deck.
 
 “Nay, Afya!” shouted Seiche Pikati. “I knew you, did I not? I knew you, and I will sail with you. I will sail with you, pirate or merchant!” The small scrawny woman whirled. “What say you, shipmates?”
 
@@ -404,7 +403,7 @@ At first the Paritids, and then, by twos and threes, the entire surviving crew o
 
 Squallbone Ponela was shouting for her shipmates to come hoist the goddess-despised ladder. Afya went to the rail with others, and she saw a strange sight: Belladonna clinging to the ladder’s ropes with tail and clawed handpaws; below her Rahifa, bloody and battered, plainly beyond moving anymore, but with her arm hooked through the rungs like grim death; and below that, Skoan Usad, one-armed, trying to scale the ladder as well, with her dagger gripped in her teeth.
 
-They began to haul. Belladonna crawled up onto the gunwale, protesting in her thin wailing voice. Then Rahifa was within reach, and Afya shouldered her way to gently lift the girl, taking care for the broken bones and torn skin; but also with some haste lest the Captain manage one more stroke with the dagger.
+They began to haul. Belladonna crawled up onto the gunwale, protesting in her thin wailing voice, and raced to safety in the shrouds. Then Rahifa was within reach, and Afya shouldered her way to gently lift the girl, taking care for the broken bones and torn skin; but also with some haste lest the Captain manage one more stroke with the dagger.
 
 Skoan Usad snarled, removed the dagger from her mouth, and chuckled. “You do not have my ship yet, Eastwind Shen. No—Afya, the name is. You shall fight me with your knife.” Her face was gone in mad hatred. Her horrid knotted muscles swelled. Then she shouted, with that hoarse booming voice, “_Crew Oath!_ Obey and take the castaways!”
 
@@ -412,13 +411,13 @@ The Oath had been considerably frayed by Tryggva’s nights of work on the Watch
 
 Afya chose that moment to yield to Tryggva Steinlaugsdottir. Tryggva became aware behind Eastwind’s eyes, eyes that faded from the silver of combat and strife to the pale graygreen of considered thought. Tryggva felt Afya’s skill and ferocity leave her; but she understood the situation well enough. She sang out, with a clear crisp voice, the Oration she had prepared in the watches of the night, while she labored over the Hexmark.
 
-It was not really a proper Oration—far too simple and brief. Barely a cantrip, if truth be told. But unlike the Orations whose subtle power is to cultivate insight and diverse powers of the Interior Mind, this Oration served only a single purpose: to disrupt one particular influence. It was crafted solely to break the grip of the _Ragfin_’s Crew Oath. Tryggva cast it in one long compelling cry that carried across _Ragfin_’s decks and up into the rigging.
+It was not really a proper Oration—far too simple and brief. Barely a cantrip, if truth be told. But unlike the Orations whose subtle power is to cultivate insight and diverse powers of the Interior Mind, this Oration served only a single purpose: to disrupt one particular influence. To break the grip of the _Ragfin_’s Crew Oath. Tryggva cast it in one long compelling cry that carried across _Ragfin_’s decks and up into the rigging.
 
 The sailors, decisively freed at last of the brutal hold of that Oath, seemed like women newly awakened, trying to recall a memory from long ago. The one terrible exception was the Bosun, who followed Skoan Usad, and worshipped Arusimaté, because she chose to. Her crushing grip on Tryggva’s arms tightened… and then Skoan Usad, bloody, grinning, a monster, heaved herself up to the rail, right in front of Tryggva.
 
 Tryggva’s mind went white and blank. She was a scholar and Figurator, not a warrior like Afya nor a brawler like Eastwind. She had done what she needed to do, but now it seemed all for nothing. She watched Skoan’s knife rise for a terrible stab, and could think of nothing to do.
 
-The giant shark erupted again out of the depths then, enraged, biting in a frenzy. It surged up in a horrible gray mass, its jaws engulfing Skoan Usad’s middle body, and some of the hull strakes, with a terrible grating crunch. Skoan’s eyes widened in horrible incomprehension, and then she was dragged away and down, departing _Ragfin_ forever. The waters closed over her and her Guide with a terrific bloody splash.
+The giant shark erupted again out of the depths then, enraged, biting in a frenzy. It surged up in a horrible gray mass, its jaws engulfing Skoan Usad’s middle body, and some of the hull strakes, with a terrible grating crunch. Skoan’s eyes widened in horrible incomprehension, and then she was dragged away and down, departing _Ragfin_ forever. A terrific bloody splash, and the waters closed over her and her Guide.
 
 Eastwind came aware again. She no longer had Tryggva’s command of the acts of the inner mind, and could only vaguely remember the act of casting the Oration, but the Oration itself still resonated in her. The Crew Oath was lifted.
 
@@ -428,7 +427,9 @@ And Eastwind was more than capable of dealing with the Bosun.
 ###To Flotsam
 
 
-The _Ragfin_, under Eastwind’s captaincy, seemed to throw off the sullen miasma of evil as it pressed west by south, heading out again the the ring of the Gyre. The Bosun lay in sick bay, her jaw shattered and teeth splintered. The corpse of the Shark Priestess had been cast over the side, drawing the immediate attention of some of the lesser sharks that haunted the weed drifts. All agreed that this was ecologically fitting.
+The _Ragfin_, under Eastwind’s captaincy, threw off the sullen miasma of evil as it pressed west by south, heading out again to the ring of the Gyre. The Bosun lay in sick bay, jaw shattered and teeth splintered. The corpse of the Shark Priestess had been cast over the side, drawing the immediate attention of some of the lesser sharks that haunted the weed drifts. 
+
+All agreed that this was ecologically fitting.
 
 The whaling weapons were broken up, the shafts burned and the irons salvaged: steel that had been put to evil purposes could be made clean again in a forge. Basilika, silent and withdrawn, scoured, replotted, and regraved the Watch Hex to more wholesome purpose.
 
@@ -438,7 +439,7 @@ Rahifa also lay in sick bay, and did not prosper. Basilika had put forth all of 
 
 						#
 
-As they sailed back out to the fringes of Bad Water, the skies changed again. Eastwind, at a particularly wild sunset, climbed the maintop and cried with all her heart to Lasirenn. <i>Come and speak with me, Beautiful Girl. Come and find me again, you. My love lies dying, she, and my ship has no guidance to the only place where she might find healing.</i> The words seemed to echo away into the high clouds and under the water. At long last, the flat muffled dullness of her spiritual ears opened out.
+As they sailed back out to the fringes of Bad Water, the skies changed again. Eastwind, at a particularly wild sunset, climbed the maintop and cried with all her heart to Lasirenn. <i>Come and speak with me, Beautiful Girl. Come and find me again, you. My love lies dying, she. My ship has no guidance to the only place where she might find healing.</i> The words seemed to echo away into the high clouds and under the water. At long last, the flat muffled dullness of her spiritual ears opened out.
 
 <i>“Well enough,”</i> came Lasirenn’s reply, faint, but growing clearer. <i>“Well enough… Have you learned not to traffic with horrible sickfish shark? You like those shark cults, eh?”</i>
 
@@ -451,9 +452,10 @@ Tears streamed down Eastwind’s dark face. <i>Thank you, Lasirenn. Never leave 
 “Your hair is so beautiful,” she whispered aloud.
 
 The next morning, the sailors saw a wonderful and heartening thing. A Passage Bird, looking translucent in the predawn air, winged in from astern and perched on the foretop. They knew it was their guide to Flotsam.
+
 						#
 
-“How many of you are there?” asked Basilika one evening, idly, as _Ragfin_ plunged into the roaring sequence of storms and clear thundering north wind that marked the Ring, the outer edge of the Gyre. She and Eastwind were on the stern deck, smoking, for smoking in sick bay was thought to be bad. Heavy banks of cloud raced overhead in the darkness, occluding and revealing the stars. “I’ve seen Afya and Tryggva. Even though Afya hid from me when I Heard your truth.”
+“How many of you are there?” asked Basilika one evening, idly, as _Ragfin_ plunged into the roaring sequence of storms and clear thundering north wind that marked the Ring, the outer edge of the Gyre. She and Eastwind were on the stern deck, smoking, for smoking in sick bay was thought to be bad luck. Heavy banks of cloud raced overhead in the darkness, occluding and revealing the stars. “I’ve seen Afya and Tryggva. Even though Afya hid from me when I Heard your truth.”
 
 Eastwind shrugged. “Few more. How many, not even entirely sure, me. I’m newest, youngest. Was upset when I realized my predecessors don’t tell me everything. Secretive, they.” Her pipe glowed as she puffed on it. “But they made me for a reason. Primary, I am, now.”
 
@@ -469,13 +471,13 @@ Eastwind shrugged. “Few more. How many, not even entirely sure, me. I’m newe
 
 They had Flotsam in sight, the morning that Rahifa woke, coming back from her long journey on the seas near death. Wrapped in bandages. She smiled brilliantly at Eastwind, a lover’s smile. Basilika, standing on the bed’s other side, eyes glistening, nudged her head No.
 
-“My girl,” said Eastwind. “Like to get some fresh air, you? Flotsam off the starboard bow, and a beautiful morning out there.” Belladonna stretched an headbutted Rahifa gently.
+“My girl,” said Eastwind. “Like to get some fresh air, you? Flotsam off the starboard bow, beautiful morning out there.” Belladonna stretched an headbutted Rahifa gently.
 
 “Consensus, seems,” the patient whispered. Sailors bore her gently up to the stern deck.
 
-It was a glorious morning, with a lifting wind from the south. _Ragfin_ was close hauled on the port tack, the crush and splash of the hull crisp and clean. The rising sun burned redgold off the port quarter. The Passage Bird circled the ship, crying its cries of the vastness of the sea, and winged off towards the floating island that so few women had ever seen.
+It was a glorious morning indeed, with a lifting wind from the south. _Ragfin_ was close hauled on the port tack, the crush and splash of the hull crisp and clean. The rising sun burned redgold off the port quarter. The Passage Bird circled the ship, crying its cries of the vastness of the sea, and winged off towards the floating island that so few women had ever seen.
 
-Flotsam was a vast wrinkled mass, miles across, heaped high, partly cloaked in mist. Centuries of wind and wave had humped its ever-thickening mats up into a series of ridges and folds, fading inland. The swells broke against the near shore in a white froth, but Eastwind suddenly realized that Flotsam trailed underwater reefs behind it, and great waves towered up there. The wind was offshore, and it pressed the breaking waves into glorious peaks of glittering blue and green. Rahifa saw it too, and smiled. “What wonderful surf breaks,” she murmured.
+Flotsam was a vast wrinkled mass, miles across, heaped high, partly cloaked in mist. Centuries of wind and wave had humped its ever-thickening mats up into a series of ridges and folds, clothed in forest, fading inland. The swells broke against the near shore in a white froth, but Eastwind suddenly realized that Flotsam trailed underwater reefs behind it, and great waves towered up, breaking there. The wind was offshore, and it pressed the breaking waves into glorious peaks of glittering blue and green. Rahifa saw it too, and smiled. “Wonderful surf breaks,” she murmured.
 
 They lay on a bench, Eastwind’s arms around Rahifa. Belladonna snuggled up against Rahifa’s other side, purring and croaking.
 
