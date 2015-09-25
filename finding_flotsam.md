@@ -4,7 +4,7 @@
 
 The sailboard was an insect skittering among the huge moving hills of water. It carved a swooping, desperate wake down their gigantic faces.
 
-The Storm Belt, the marine desert of the equator. Terrible place to be adrift. The sky above was a fretwork of strange, hard-edged formations, the ones that Paritid sailors call “Iffr’s Fingerbones”. Thin glassy, knobby tubes of high-altitude wind wrapped in tatters of cirrus, the Fingerbones always blast and splay from west to east. Sailors pray that they do not descend.
+The Storm Belt, the marine desert of the equator. Not a hopeful place to be adrift. The sky above was a fretwork of strange, hard-edged formations, the ones that Paritid sailors call “Iffr’s Fingerbones”. Thin glassy, knobby tubes of high-altitude wind wrapped in tatters of cirrus, the Fingerbones always blast and splay from west to east. Sailors pray that they do not descend.
 
 One of those Fingerbones, following a local concentration of surface heat, had plunged down the night before; had lowered a knuckle to rap the sea. The schooner _Limstrake_, bound for the seaboard cities of the Gautsas with a cargo of spices and glassware, had had little warning when the droning, boneshaking shriek fell through the hot inky darkness above. Little warning, and no chance. The Fingerbone ripped the sticks out of _Limstrake_, hurling them over the side in a ruined welter of cordage and spars, breaking the keel at the mainmast step. Then it had passed on to brush the water’s surface in a huge explosive burst, blasting the stricken ship’s decks with roaring foam and lifting a short sharp wall of water that stove in several planks portside.
 
