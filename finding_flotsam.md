@@ -5,7 +5,7 @@
 The sailboard was an insect skittering among the huge moving hills of water. It carved a swooping, desperate wake down their gigantic faces.
 
 
-The Storm Belt, endlessly heaving: the marine desert of the equator. Not a hopeful place to be adrift. The sky above was huge and hollow, vaulted with a fretwork of strange, hard-edged formations, the ones that Paritid sailors call “Iffr’s Fingerbones”. Thin glassy, knobby tubes of high-altitude wind wrapped in tatters of cirrus, the Fingerbones always blast and reach from west to east. Sailors pray that they do not descend.
+The Storm Belt, endlessly heaving. Empty marine desert of the equator, not a hopeful place to be adrift. The sky above was huge and hollow, vaulted with a fretwork of strange, hard-edged formations, the ones that Paritid sailors call “Iffr’s Fingerbones”. Thin glassy, knobby tubes of high-altitude wind wrapped in tatters of cirrus, the Fingerbones always blast and reach from west to east. Sailors pray that they do not descend.
 
 One had descended the night before, shattering the schooner _Limstrake_. The two women and one small rigging cat on the driven sailboard were, so far as they knew, _Limstrake_’s only survivors.
 
@@ -55,7 +55,7 @@ Their only chance was to get close enough to the ship to be spotted. If the ship
 
 <i>Lasirenn, help those lunkheads notice us, they. And soften their hearts if they do. Don’t let them leave us to die, us.</i>
 
-Whether Lasirenn, she who breathes the storm; Lasirenn, whose wonderful silken moonfan of a tail lifts the swells of the world; Lasirenn, with her hair of sunrise and sunset cirrus; whether she heard, and was moved, or whether it was just the course of events, the gray dark rags of cloud to the west were torn apart, and burning redgold beams of sunset swept across the sea. They struck the sailboard, lighting its sail like a torch against the gathering darkness of evening behind them.
+Whether Lasirenn, she who breathes the storm; Lasirenn, whose wonderful silken moonfan of a tail lifts the swells of the world; Lasirenn, with her hair of sunrise and sunset cirrus; whether she heard, and was moved, or whether it was just the course of events, the gray dark rags of cloud to the west tore apart, and burning redgold beams of sunset swept across the sea. They struck the sailboard, lighting its sail like a torch against the gathering darkness of evening behind them.
 
 A lookout on board the schooner apparently did her duty. The schooner, in a breathtaking display of seamanship, jibed through the wind, coming up close-hauled on the port tack. On its new heading, it swept up toward the sailboard, clearly intending to take the wind from them. Eastwind gauged her course against the schooner’s—it wasn’t drifting downsea very fast, but it would need to heave to.
 
@@ -65,11 +65,11 @@ They were going to live.
 
 ##The _Ragfin_
 
-The Captain was not a reassuring figure. Mad old sea-thief, glaring out of pale blue-gray eyes at the world, the ocean, any woman she saw. Her ragged gray hair was tarred back like any common sailor’s; her face, breast, and limbs were seamed and scarred and hard. She wore a shoulder scarf and a short sarong. Buckled at her belt was a steel scimitar with a worn, stained hilt. Her bare arms and legs were knotted with muscle.
-
 “I am Skoan Usad. You have come aboard the _Ragfin_, out of Heke’ah, bound for Flotsam. What are we to do with you?”
 
-“_Do?_ Work our passage, we,” said Rahifa, staring. “Any ship sail Storm Belt need six, five extra hand. Goddess-forgotten good sailors, we.” Eastwind, spent and trembling, with rushes of blackness across her sight, was content to let Rahifa speak for them. 
+The Captain was not a reassuring figure. Mad old sea-thief, glaring out of pale blue-gray eyes at the world, the ocean, any woman she saw. Her ragged gray hair was tarred back like any common sailor’s; her face, breast, and limbs were seamed and scarred and hard. She wore a shoulder scarf and a short sarong. Buckled at her belt was a steel scimitar with a worn, stained hilt. Her bare arms and legs were knotted with muscle.
+
+“_Do?_ Work our passage, we,” said Rahifa, staring. “Any ship sail Storm Belt need six, five extra hand. Goddess-forgotten _good_ sailors, we.” Eastwind, spent and trembling, with rushes of blackness across her sight, was content to let Rahifa speak for them. 
 
 “Can’t use you if you’re not lucky. How do you come to be sailing that ridiculous little plank thousands of miles from anywhere?”
 
@@ -81,11 +81,11 @@ The Captain, officers, and crew were silent. They knew the Storm Belt and the Fi
 
 “Fingerbone pass over us, rap a knuckle on the sea close aboard. Surface exploded. Blast of foam, we near choked, we. Wall of water stove in the hull planks. 
 
-“Then… Fingerbone gone, sudden as it came, howling up, away into the night. Left cold air pouring over us, blasting. _Cold._ Like high latitude winter. Freezing our tits off, we, but the worst was the fog. Fog boil up everywhere. 
+“Then… Fingerbone gone, sudden as it came, howling up, moaning away into the night. Left cold air pouring over us, blasting. _Cold._ Like high latitude winter. Freezing our tits off, we, but the worst was the fog. Fog boil up everywhere. 
 
 “We got the board up and got aboard. Tried to find our shipmates in fog and dark. Found _none_. Swells and waves threw us along. Got away from the ship before it wrecked or fouled us. So, Captain Skoan Usad: we lucky enough, you think?
 
-“Besides. Rigging cat here with us. Good cat, she. This ship could use more cat.” Rahifa's quick seaman's eye hadn't missed the disturbing flickers of motion aboard thee _Ragfin_: small furtive crawlings and lifted jointed legs. Cocoons and webs fouling odd corners. Paritid rigging cats, with their opposable thumbs, prehensile tails, rugged immune systems, and lightning reflexes, were among the best bugkillers.
+“Besides. Rigging cat here with us. Good cat, she. This ship could use more cat.” Rahifa's quick seaman's eye hadn't missed the disturbing flickers of motion aboard the _Ragfin_: small furtive crawlings and lifted jointed legs. Cocoons and webs fouling odd corners. Paritid rigging cats, with their opposable thumbs, prehensile tails, rugged immune systems, and lightning reflexes, were among the best bugkillers.
 
 “Bitten and stung, me, on ship with too many bug. Conespider. Dead sister. Stingbeetle. Don't need more marks on my pretty ass, me.” Rahifa, well aware that she spoke insult, looked flatly at the Captain. 
 
@@ -107,7 +107,7 @@ The last rays of sunset faded, and the heavy black clouds closed in towards them
 
                    #
 
-“Any woman aboard have any word against these castaways?” The Captain looked aloft at the groaning rigging, silhouetted against the storm roof that hurtled past overhead in long heavy-bellied streaks. Foam hissed along thee _Ragfin_’s sides, and great dark swells rolled the ship from side to side.
+“Any woman aboard have any word against these castaways?” The Captain looked aloft at the groaning rigging, silhouetted against the storm roof that hurtled past overhead in long heavy-bellied streaks. Foam hissed along the _Ragfin_’s sides, and great dark swells rolled the ship from side to side.
 
 The sailors were a mixed lot: Paritids, Antarctics, Racha. And there were some that were of a kind that Eastwind recognized as Bhalong: heavy, muscular women of paler skin, with an air of menace and violence. They came from seaports on the western coast of Osz. Eastwind knew something of Bhalong. She didn’t like them much, but respected them as fighters.
 
@@ -171,7 +171,7 @@ But where she had always felt Lasirenn’s wry presence in her heart, and often 
 
 The _Ragfin_ pushed south by west, heading for the Great Gyre.
 
-They left the tall frightening skies of the Fingerbones, and the uneasy mountainous seas, behind as they passed out of the Storm Belt. Lower-altitude storms they still had in plenty. Lightning-shot squalls, like the one that had attended Rahifa and Eastwind’s Crew Oath ceremony, still rushed past them or over them. The crew worked themselves ragged—taking sail in and then hoisting it, by turns. _Ragfin_ pitched in the sudden ferocious chop.
+They left the tall frightening skies of the Fingerbones, and the uneasy mountainous seas, behind as they passed out of the Storm Belt. Lower-altitude storms they still had in plenty. Lightning-shot squalls, like the one that had attended Rahifa and Eastwind’s Crew Oath ceremony, still rushed past them or over them. Brief blasts of rain roared over the ship. The crew worked themselves ragged—taking sail in and then hoisting it, by turns. _Ragfin_ pitched in the sudden ferocious chop.
 
 Rahifa and Eastwind proved out. They were always quick to spring to any dangerous or hard task; good aloft in dirty weather. Sails they had gasketed didn’t blow loose. Eastwind, with her Old Biologist eyes and endurance, was especially valuable in the rigging at night. Both were good sailmakers and handy with a marlinespike, easing the burden of repair that falls on every ship crossing the Storm Belt. They soon earned the trust of the watch officers and even gained the grudging respect of the Bhalong.
 
@@ -198,7 +198,7 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 “Women say. Women say shark-puke nonsense all kind.” Ponela spat.
 
-“Flotsam one of the biggest weed raft any ocean. Old Biologist use it for wartime dump, they. Fill it with horrible things. After centuries, mutagen they decay or get chelated out. Wild speciation they calm down… but eco-analyst from Flotsam worth a lot to women trying to penetrate Wild Regions. Afreyk, say, or up in Matau maybe. Soo _Ragfin_ a slaver both ways.” Squallbone snarled and shook her head as if trying to shake off a crawling conespider or scorpid.
+“Flotsam one of the biggest weed raft any ocean. Old Biologist use it for wartime dump, they. Fill it with horrible things. After centuries, mutagen they decay or get chelated out. Wild speciation they calm down… but eco-analyst from Flotsam worth a lot to women trying to harvest Wild Regions. Afreyk, say, or up in Matau maybe. Soo _Ragfin_ a slaver both ways.” Squallbone snarled and shook her head as if trying to shake off a crawling conespider or scorpid.
 
 “Watch yourself, you,” said Eastwind sharply. The footrope was slippery, and Squallbone was shaking her head too hard. “Got to get this sail in, get back down on deck, we.” The wind’s howl was getting worse, and the hurtling clouds above were sinking down towards them, like the belly of some great dark beast.
 
@@ -208,11 +208,11 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. Decks dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly, smoking. The sea rushed, Ragfin rolled slowly, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
 
-Eastwind’s Old Biologist eyes were keen as a cat’s in the gloom. The Watch Hexmark, which all of thee _Ragfin_’s sailors must study at the beginning of the watch, was on the fo’c’sle bulkhead. She stole silently to it, crouched, and yielded to a deeper level of identity. A moment later she stood, Eastwind Shen no longer.
+Eastwind’s Old Biologist eyes were keen as a cat’s in the gloom. The Watch Hexmark, which all of the _Ragfin_’s sailors must study at the beginning of the watch, was on the fo’c’sle bulkhead. She stole silently to it, crouched, and yielded to a deeper level of identity. A moment later she stood, Eastwind Shen no longer.
 
 Tryggva Steinlaugsdottir looked out of Eastwind’s eyes: cool and appraising. She did not have Eastwind’s skills and knowledge, but she held in memory a rough awareness of the layout of thee _Ragfin_, and the location and duties of the sailors on watch.
 
-She brought out Eastwind’s smoking kit. The coal splinter inside cast infrared light that normal human eyes couldn’t see. For her, it was as good as a bullseye lantern.
+She brought out Eastwind’s smoking kit. The coal splinter inside cast infrared light that normal human eyes couldn’t see. For her, it was a darklight as good as a bullseye lantern.
 
 The Hexmark was a disc cut and inked and burned into the weathered gray wood. Its black lines and fields, its scrolled calligraphy, formed a densely complex blur. She studied the mark for some time, gradually understanding its purpose and nature. Then, with inhumanly steady hands, with ink and engraving tools and the hot element of the darklight, she began to make almost imperceptible alterations.
 
