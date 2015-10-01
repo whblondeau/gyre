@@ -198,7 +198,7 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 “Women say. Women say shark-puke nonsense all kind.” Ponela spat.
 
-“Flotsam one of the biggest weed raft any ocean. Old Biologist use it for wartime dump, they. Fill it with horrible things. After centuries, mutagen they decay or get chelated out. Wild speciation they calm down… but eco-analyst from Flotsam worth a lot to women trying to harvest Wild Regions. Afreyk, say, or up in Matau maybe. Soo _Ragfin_ a slaver both ways.” Squallbone snarled and shook her head as if trying to shake off a crawling conespider or scorpid.
+“Flotsam one of the biggest weed raft any ocean. Old Biologist use it for wartime dump, they. Fill it with horrible things. After centuries, mutagen they decay or get chelated out. Wild speciation they calm down… but eco-analyst from Flotsam worth a lot to women trying to harvest Wild Regions. Afreyk, say, or up in Matau maybe. So _Ragfin_ a slaver both ways.” Squallbone snarled and shook her head as if trying to shake off a crawling conespider or scorpid.
 
 “Watch yourself, you,” said Eastwind sharply. The footrope was slippery, and Squallbone was shaking her head too hard. “Got to get this sail in, get back down on deck, we.” The wind’s howl was getting worse, and the hurtling clouds above were sinking down towards them, like the belly of some great dark beast.
 
@@ -210,7 +210,7 @@ The night was dark and muffled with cloud, but the wind was steady and not overl
 
 Eastwind’s Old Biologist eyes were keen as a cat’s in the gloom. The Watch Hexmark, which all of the _Ragfin_’s sailors must study at the beginning of the watch, was on the fo’c’sle bulkhead. She stole silently to it, crouched, and yielded to a deeper level of identity. A moment later she stood, Eastwind Shen no longer.
 
-Tryggva Steinlaugsdottir looked out of Eastwind’s eyes: cool and appraising. She did not have Eastwind’s skills and knowledge, but she held in memory a rough awareness of the layout of thee _Ragfin_, and the location and duties of the sailors on watch.
+Tryggva Steinlaugsdottir looked out of Eastwind’s eyes: cool and appraising. She did not have Eastwind’s skills and knowledge, but she held in memory a rough awareness of the layout of the _Ragfin_, and the location and duties of the sailors on watch.
 
 She brought out Eastwind’s smoking kit. The coal splinter inside cast infrared light that normal human eyes couldn’t see. For her, it was a darklight as good as a bullseye lantern.
 
@@ -366,7 +366,7 @@ Dhagaska whirled in fury, sprang, and struck at Afya with the drumming club. The
 
 The priestess, staggering, staring at her spurting arm stumps, shrieked in unbelieving horror as Afya whirled and raced back up on deck.
 
-Thee _Ragfin_ was heaving to, neatly, blocks clattering and squealing, canvas snapping in the wind. Afya raced to the rail, looked out, saw the Captain floundering grimly closer. Rahifa, a fast swimmer, had closed the distance to the ship.
+The _Ragfin_ was heaving to, neatly, blocks clattering and squealing, canvas snapping in the wind. Afya raced to the rail, looked out, saw the Captain floundering grimly closer. Rahifa, a fast swimmer, had closed the distance to the ship.
 
 “Aloft!” Afya sang out. “The Shark! Where away?”
 
@@ -422,7 +422,7 @@ The Oath had been increasingly frayed by Tryggva’s nights of work on the Watch
 
 Afya chose that moment to yield to Tryggva Steinlaugsdottir. Tryggva became aware behind Eastwind’s eyes, eyes that faded from the silver of combat and strife to the pale graygreen of considered thought. Tryggva felt Afya’s skill and ferocity leave her; but she understood the situation well enough. She sang out, with a clear crisp voice, the Oration she had prepared in the watches of the night, while she labored over the Hexmark.
 
-It was not really a proper Oration—far too simple and brief. Barely a cantrip, if truth be told. But unlike the Orations whose subtle power is to cultivate insight and diverse powers of the Interior Mind, this Oration effected only a single purpose: to disrupt one particular influence. To break the grip of thee _Ragfin_’s Crew Oath. Tryggva cast it in one long compelling cry that carried acrosss _Ragfin_’s decks and up into the rigging.
+It was not really a proper Oration—far too simple and brief. Barely a cantrip, if truth be told. But unlike the Orations whose subtle power is to cultivate insight and diverse powers of the Interior Mind, this Oration effected only a single purpose: to disrupt one particular influence. To break the grip of the _Ragfin_’s Crew Oath. Tryggva cast it in one long compelling cry that carried acrosss _Ragfin_’s decks and up into the rigging.
 
 The sailors, decisively freed at last of the brutal hold of that Oath, seemed like women newly awakened, trying to recall a memory from long ago. The one terrible exception was the Bosun, who followed Skoan Usad, and worshipped Arusimaté, because she chose to. Her crushing grip on Tryggva’s arms tightened… and then Skoan Usad, bloody, grinning, a monster, heaved herself up to the rail, right in front of Tryggva.
 
