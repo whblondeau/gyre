@@ -190,7 +190,7 @@ Eastwind stared. “A _Man?_”
 Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
 
-“Fist yourself. Seen Men before, me. Talk to them sometime.” She tied another gasket. “So, add to everything: Ragfin is a breeder slaver.” She shook her head in disgust. “Sell him to a breeding collective on Flotsam? What they get paid for him, eh?”
+“Fist yourself. Seen Men before, me. Talk to them sometime.” She tied another gasket. “So, add to everything: _Ragfin_ is a breeder slaver.” She shook her head in disgust. “Sell him to a breeding collective on Flotsam? What they get paid for him, eh?”
 
 “Trade for eco-analyst, I hear, me.” She put a gasket in her teeth, gathered another length of sail, secured it. “Ever been Flotsam?”
 
@@ -206,7 +206,7 @@ Squallbone nodded solemnly. “Male of human species. Exist, they.”
 
                    #
 
-The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. Decks dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly, smoking. The sea rushed, Ragfin rolled slowly, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
+The night was dark and muffled with cloud, but the wind was steady and not overly strong. No reason for the watch to be changed, nor even move about setting sails. Decks dark, with only a few glints from shrouded lanterns. Eastwind looked up, studying the rigging, seeing no one aloft. The watch was gathered aft, speaking quietly, smoking. The sea rushed, _Ragfin_ rolled slowly, the hull creaked, the rigging groaned in the moaning wind. A perfect night for this work.
 
 Eastwind’s Old Biologist eyes were keen as a cat’s in the gloom. The Watch Hexmark, which all of the _Ragfin_’s sailors must study at the beginning of the watch, was on the fo’c’sle bulkhead. She stole silently to it, crouched, and yielded to a deeper level of identity. A moment later she stood, Eastwind Shen no longer.
 
