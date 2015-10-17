@@ -1,3 +1,6 @@
+_Copyright&copy; Bill Blondeau, 2015; all rights reserved_
+<hr/>
+
 ##Finding Flotsam
 
 ###The Fingerbones
