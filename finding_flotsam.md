@@ -1,9 +1,9 @@
 _Copyright&copy; Bill Blondeau, 2015; all rights reserved_
 <hr/>
 
-##Finding Flotsam
+## Finding Flotsam
 
-###The Fingerbones
+### The Fingerbones
 
 The sailboard was an insect skittering among the huge moving hills of water. It carved a swooping, desperate wake down their gigantic faces.
 
@@ -66,7 +66,7 @@ Eastwind slowed and came up another point.
 
 They were going to live.
 
-##The _Ragfin_
+## The _Ragfin_
 
 “I am Skoan Usad. You have come aboard the _Ragfin_, out of Heke’ah, bound for Flotsam. What are we to do with you?”
 
@@ -170,7 +170,7 @@ But where she had always felt Lasirenn’s wry presence in her heart, and often 
 <i>Lasirenn… I have wandered too far. If you can hear me, know that I never meant this.</i>
 
 
-###Down to the Gyre
+### Down to the Gyre
 
 The _Ragfin_ pushed south by west, heading for the Great Gyre.
 
@@ -221,7 +221,7 @@ The Hexmark was a disc cut and inked and burned into the weathered gray wood. It
 
 Tryggva would be back on other dark nights. And every time the sailors studied the Hexmark, it would work to undermine the Crew Oath, not to sustain it.
 
-###Sailing Bad Water
+### Sailing Bad Water
 
 The _Ragfin_ sailed down through the main drift of the Gyre. Roaring easterlies ruled the sea there, and a heavy roof of cloud rushed overhead in oily streaks.
 
@@ -312,7 +312,7 @@ The Captain nodded again. “Flotsam does! What their cause is, or what purpose 
 
 For just a moment, Eastwind Shen felt a common fascination, a bond with the bloody-handed monster who ruled the horrible ship.
 
-###The Shark
+### The Shark
 
 
 The _Ragfin_ made good time, following the guide shark. At first its course meandered; but as they sailed ever further to the west southwest, the fish appeared to settle in.
@@ -438,7 +438,7 @@ Eastwind came aware again. She no longer had Tryggva’s command of the acts of 
 And Eastwind was more than capable of dealing with the Bosun.
 
 
-###The Breaks of Flotsam
+### The Breaks of Flotsam
 
 The _Ragfin_, under Eastwind’s captaincy, threw off the sullen miasma of evil as it pressed west by south, heading out to the edge of the Gyre. The Bosun lay in sick bay, jaw shattered and teeth splintered. The corpse of the Shark Priestess had been cast over the side, drawing the immediate attention of some of the lesser sharks that haunted the weed drifts.
 
